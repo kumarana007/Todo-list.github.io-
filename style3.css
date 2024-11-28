@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+
+.todo {
+    width: 10cm;
+    height: 15cm;
+    background-color: chartreuse;
+    color: white;
+    margin-left: 40%;
+    margin-top: 1cm;
+ 
+    text-align: center;
+}
+
+ul li {
+    padding: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-transform: uppercase;
+    
+}
+
+div {
+    overflow-y: auto;
+
+    border: solid black 2px;
+}
+
+h1 {
+    padding: 2px;
+    letter-spacing: 2px;
+}
+
+input {
+    padding: 2.5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+button {
+    padding: 3px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
